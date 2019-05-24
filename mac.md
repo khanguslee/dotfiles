@@ -1,5 +1,9 @@
 # MacOS Initial Setup
-- [ ] TODO: Turn this into a script using homebrew
+Run the `mac-setup.sh` script to install _mostly_ everything automatically.
+Run the following command to make it executable.
+```
+chmod +x mac-setup.sh
+```
 
 ## Software
 ### General
