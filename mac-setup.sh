@@ -20,6 +20,7 @@ brew cask install visual-studio-code
 brew cask install spectacle
 brew cask install iterm2
 brew cask install spotify
+brew cask install onedrive
 
 # Set git alias
 echo "  Setting git aliases."
