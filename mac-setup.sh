@@ -17,6 +17,7 @@ brew install python
 echo "  Installing cask packages."
 brew cask install google-chrome
 brew cask install visual-studio-code
+brew cask install android-studio
 brew cask install spectacle
 brew cask install iterm2
 brew cask install spotify
