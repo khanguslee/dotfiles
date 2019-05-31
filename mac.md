@@ -18,6 +18,7 @@ chmod +x mac-setup.sh
 ### Development
 - [vscode](https://code.visualstudio.com/)
 - [Xcode](https://itunes.apple.com/au/app/xcode/id497799835?mt=12)
+- [Android Studio](https://developer.android.com/studio)
 - [Install NVM, NodeJS, Yarn via Homebrew](https://gist.github.com/nijicha/e5615548181676873118df79953cb709)
 
 
