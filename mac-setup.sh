@@ -12,12 +12,17 @@ echo "  Installing brew packages."
 brew install wget
 brew install git
 brew install python
+brew install ant
+brew install maven
+brew install tldr
 
 # Install my cask packages
 echo "  Installing cask packages."
 brew cask install google-chrome
 brew cask install visual-studio-code
 brew cask install android-studio
+brew cask install adoptopenjdk8
+brew cask install android-sdk
 brew cask install android-platform-tools
 brew cask install spectacle
 brew cask install iterm2
@@ -27,4 +32,5 @@ brew cask install onedrive
 # Set git alias
 echo "  Setting git aliases."
 git config --global alias.st status
+git config --global alias.co checkout
 git config --global alias.adog "log --all --decorate --oneline --graph"
