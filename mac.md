@@ -20,6 +20,7 @@ chmod +x mac-setup.sh
 - [Xcode](https://itunes.apple.com/au/app/xcode/id497799835?mt=12)
 - [Android Studio](https://developer.android.com/studio)
 - [Install NVM, NodeJS, Yarn via Homebrew](https://gist.github.com/nijicha/e5615548181676873118df79953cb709)
+- [Install Java 8](https://medium.com/solacedotcom/switching-to-adoptopenjdk-8d4a4aed16b8)
 
 
 ## Setting up git
