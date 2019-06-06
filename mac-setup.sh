@@ -15,6 +15,7 @@ brew install python
 brew install ant
 brew install maven
 brew install tldr
+brew install go
 
 # Install my cask packages
 echo "  Installing cask packages."
