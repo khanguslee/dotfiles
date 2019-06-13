@@ -1,4 +1,5 @@
 # Setting Up Github 
+TODO: Turn this into a bash script
 
 ## Initial setup
 ```
