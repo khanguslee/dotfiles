@@ -1,4 +1,17 @@
-# Github Config Commands
+# Setting Up Github 
+
+## Initial setup
+```
+git config --global user.name "khanguslee"
+```
+```
+git config --global user.email "khanguslee@gmail.com"
+```
+
+TODO: Include setting up SSH instructions for both mac and windows
+
+[SSH Connections to AWS CodeCommit Repos (Linux, macOS, or Unix)](https://docs.aws.amazon.com/codecommit/latest/userguide/setting-up-ssh-unixes.html)
+## Github Config Commands
 ```
 git config --global alias.st status
 ```
