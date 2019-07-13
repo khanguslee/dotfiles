@@ -4,7 +4,7 @@ TODO: Turn this into a bash script
 
 ## Initial setup
 
-```
+```bash
 git config --global user.name "khanguslee"
 git config --global user.email "khanguslee@gmail.com"
 ```
@@ -15,7 +15,7 @@ TODO: Include setting up SSH instructions for both mac and windows
 
 ## Github Config Commands
 
-```
+```bash
 git config --global alias.st status
 git config --global alias.adog "log --all --decorate --oneline --graph"
 git config --global alias.po "pull origin"
