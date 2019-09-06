@@ -20,5 +20,7 @@ git config --global alias.st status
 git config --global alias.adog "log --all --decorate --oneline --graph"
 git config --global alias.po "pull origin"
 git config --global alias.co "checkout"
+git config --global alias.com "checkout master"
+git config --global alias.cod "checkout development"
 git config --global alias.br "branch"
 ```
