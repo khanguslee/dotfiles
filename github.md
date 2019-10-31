@@ -23,4 +23,5 @@ git config --global alias.co "checkout"
 git config --global alias.com "checkout master"
 git config --global alias.cod "checkout development"
 git config --global alias.br "branch"
+git config --global alias.rh "reset --hard"
 ```
