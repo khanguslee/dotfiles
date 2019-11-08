@@ -5,3 +5,5 @@ Random config files for various applications.
 
 - [github](github.md)
 - [mac](mac.md)
+- [node](node.md)
+- [ruby](ruby.md)
