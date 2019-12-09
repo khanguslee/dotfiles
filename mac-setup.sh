@@ -16,6 +16,7 @@ brew install ant
 brew install maven
 brew install tldr
 brew install go
+brew install zsh
 
 # Install my cask packages
 echo "  Installing cask packages."
@@ -31,3 +32,6 @@ echo "  Setting git aliases."
 git config --global alias.st status
 git config --global alias.co checkout
 git config --global alias.adog "log --all --decorate --oneline --graph"
+
+# Install others
+sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
