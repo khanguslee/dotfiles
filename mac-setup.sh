@@ -17,6 +17,7 @@ brew install maven
 brew install tldr
 brew install go
 brew install zsh
+brew install yarn
 
 # Install my cask packages
 echo "  Installing cask packages."
@@ -26,6 +27,7 @@ brew cask install spectacle
 brew cask install iterm2
 brew cask install spotify
 brew cask install onedrive
+brew cask install slack
 
 # Set git alias
 echo "  Setting git aliases."
