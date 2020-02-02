@@ -33,6 +33,7 @@ brew cask install slack
 echo "  Setting git aliases."
 git config --global alias.st status
 git config --global alias.co checkout
+git config --global alias.co "checkout master"
 git config --global alias.adog "log --all --decorate --oneline --graph"
 
 # Install others
