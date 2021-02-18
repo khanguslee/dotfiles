@@ -19,6 +19,7 @@ brew "tldr"
 brew "wget"
 brew "yarn"
 brew "zsh"
+brew "zsh-syntax-highlighting"
 brew "mongodb/brew/mongodb-community"
 
 cask "clockify"
