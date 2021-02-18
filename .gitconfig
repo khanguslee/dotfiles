@@ -1,0 +1,14 @@
+[user]
+	name = khanguslee
+	email = khanguslee@gmail.com
+[alias]
+	st = status
+	co = checkout
+	adog = log --all --decorate --oneline --graph
+	cm = commit
+	please = push --force-with-lease
+[filter "lfs"]
+	clean = git-lfs clean -- %f
+	smudge = git-lfs smudge -- %f
+	process = git-lfs filter-process
+	required = true
