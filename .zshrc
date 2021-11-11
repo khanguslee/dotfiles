@@ -76,7 +76,7 @@ plugins=(
 	yarn
 	npm
 	bgnotify
-	osx
+	macos
 )
 
 source $ZSH/oh-my-zsh.sh
