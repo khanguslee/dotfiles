@@ -24,7 +24,6 @@ brew "zsh-autosuggestions"
 brew "zsh-syntax-highlighting"
 brew "mongodb/brew/mongodb-community"
 
-cask "clockify"
 cask "google-chrome"
 cask "iterm2"
 cask "mongodb-compass"
