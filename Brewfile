@@ -9,7 +9,6 @@ brew "bat"
 brew "python@3.8"
 brew "gcc"
 brew "cmake"
-brew "docker"
 brew "exa"
 brew "gh"
 brew "git"
@@ -23,6 +22,7 @@ brew "zsh"
 brew "zsh-autosuggestions"
 brew "zsh-syntax-highlighting"
 brew "mongodb/brew/mongodb-community"
+brew "awscli@2"
 
 cask "google-chrome"
 cask "iterm2"
@@ -33,6 +33,7 @@ cask "rectangle"
 cask "slack"
 cask "spotify"
 cask "visual-studio-code"
+cask "docker"
 
 mas "todoist", id: 585829637
 mas "ToothFairy", id: 1191449274
